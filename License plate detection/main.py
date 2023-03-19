@@ -89,6 +89,7 @@ def main():
     a=list(range(1,11))
     for i in a:
      detect(i,False)
+    print("!!")
 
 
 
